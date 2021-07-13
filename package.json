@@ -40,5 +40,8 @@
   },
   "browserslist": [
     "> 5%"
-  ]
+  ],
+  "publishConfig": {
+    "access": "public"
+  }
 }
