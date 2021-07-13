@@ -1,7 +1,7 @@
 {
   "name": "@geut/lane",
   "description": "A small (and very opinionated) set of Little ANimated (SVG) Elements.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "dist/es/index.js",
   "files": [
     "dist",
